@@ -4,7 +4,7 @@
 ### 🧠 About Me
 I'm Czech developer and founder working at the intersection of **web, gaming and AI**.
 Currently building:
-- ⚡ **GoodHost s.r.o.** - a game hosting for everyone
+- ⚡ **GoodHost s.r.o.** - game hosting for everyone
 - 🚀 **My portfolio** - website that should represent me
 And sometimes making videos as **Darqes**.
 
