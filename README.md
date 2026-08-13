@@ -16,8 +16,8 @@ And sometimes making videos as **Darqes**.
 High-performance cloud & game hosting infrastructure built for speed, stability, and zero-compromise uptime.
 
 ### 📊 Stats
-![Jiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darqes&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darqes&layout=compact&theme=tokyonight)
+![Jiri's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiriodraska&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiriodraska&layout=compact&theme=tokyonight)
 
 ### 🧭 Currently focusing on
 - 🧱 Redesigning and fixing bugs on GoodHost.cz
