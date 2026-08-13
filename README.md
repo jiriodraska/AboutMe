@@ -15,9 +15,6 @@ And sometimes making videos as **Darqes**.
 ⚡ [**GoodHost s.r.o**](https://goodhost.cz/)<br>
 High-performance cloud & game hosting infrastructure built for speed, stability, and zero-compromise uptime.
 
-### 📊 Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiriodraska&theme=tokyonight)
-
 ### 🧭 Currently focusing on
 - 🧱 Redesigning and fixing bugs on GoodHost.cz
 - ✨ Finishing my personal portfolio
